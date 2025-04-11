@@ -28,12 +28,6 @@ A modern, responsive landing page for **24xChange**, a currency exchange company
 
 ---
 
-## 📷 Preview
-
-![24xChange Screenshot](./assets/screenshot.png) <!-- Optional: Add your screenshot in /assets -->
-
----
-
 ## 🚀 Getting Started
 
 To get a local copy up and running:
