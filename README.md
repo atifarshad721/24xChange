@@ -4,7 +4,7 @@ A modern, responsive landing page for **24xChange**, a currency exchange company
 
 ## 🌐 Live Demo
 
-[Visit the Landing Page](#) <!-- You can replace # with your deployment link -->
+[Visit the Landing Page]([#](https://24xchange.netlify.app/)) <!-- You can replace # with your deployment link -->
 
 ---
 
